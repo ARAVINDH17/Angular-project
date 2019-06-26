@@ -1,0 +1,21 @@
+.top-bar{
+    background-image: url('ps22.jpg');  
+}
+.banner1{
+    background-image: url('ad.jpg');
+    height: 361px;
+    width: 200px;
+    margin-top: 39px;
+}
+h1{
+    color: black;
+    margin-top: 216px;
+}
+.contents{
+    background-color: whitesmoke;
+    height: 500px;
+}
+.footer{
+    background-image:url('ps1.jpg');
+    height: 54px;
+}
